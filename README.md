@@ -1,11 +1,13 @@
-# Prodigy-InfoTech
-Prodigy-InfoTechCYBER SECURITY INTERNSHIP
+Prodigy-InfoTech Cyber Security Internship
 
-My internship at The Prodigy Infotech Online recently concluded, spanning a duration of one month from jan 1 2025 to jan 31June 2025. Throughout this period, I had the opportunity to delve into various aspects of Cyber Security, gaining valuable insights and hands-on experience in the field. The online nature of the internship provided flexibility and convenience, enabling me to effectively manage and complete the assigned tasks. This experience has been instrumental in enhancing my knowledge and skills in Cyber Security, and I am grateful for the opportunity to learn and grow in such a dynamic and essential domain.
+Had an awesome time during my Cyber Security Internship at Prodigy Infotech from January 1, 2025 to January 31, 2025. 🚀 The internship was completely online, which was super flexible and allowed me to dive deep into the exciting world of cyber security. 🖥️
 
-INTERSHIP DURATION: 1 MONTHS [1 jan - 31 Jan 2025]
+Throughout the month, I got my hands dirty with vulnerability assessments 🔎, explored the world of ethical hacking 🧑‍💻, and played around with some cool penetration testing tools. I also learned how to identify and tackle security risks like a pro. 💥 On top of that, I got familiar with network security and how to deal with cyber threats that are always lurking. 😎
 
-MODE: ONLINE
+This internship wasn’t just about theory. I got the chance to work with real-world tools, stay updated on the latest trends in the cyber world, and level up my skills in incident response and security protocols. 🔐 It’s been a great journey, and I’m now more confident than ever in my ability to pursue a career in cyber security. 🔒
+
+Internship Duration: 1 Month (January 1, 2025 – January 31, 2025)
+Mode: Online 🌍
 
 OFFER LETTER:-
 [Offer Letter.pdf](https://github.com/user-attachments/files/18309132/Offer.Letter.pdf)
